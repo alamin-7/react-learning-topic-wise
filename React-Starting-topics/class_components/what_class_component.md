@@ -1,0 +1,1 @@
+# Class Components are the reusable code blocks or classes that extends the React
