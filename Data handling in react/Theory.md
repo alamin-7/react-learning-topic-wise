@@ -1,0 +1,1 @@
+# React onChange is an event handler that triggers when there is any change in the input field.
